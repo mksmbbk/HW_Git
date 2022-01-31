@@ -1,0 +1,12 @@
+1) ID
+2) Author
+3) Summary
+4) Description
+5) Precondition
+6) STR
+7) AR
+8) ER
+9) Severity
+10) Priority
+11) Environment
+12) Attachments
