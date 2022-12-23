@@ -1,4 +1,4 @@
 1) Number
 2) Check
-3) Result
+3) Status
 4) Comment
